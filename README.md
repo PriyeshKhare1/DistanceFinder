@@ -37,3 +37,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 [Sumit Mukharjee](https://github.com/sumitmukharjeeeeee)
 [Shivam Chakrawarti]()
+[Prajjwal Kale]()
+[Rajeev Satnami]()
